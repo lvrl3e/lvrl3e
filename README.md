@@ -1,4 +1,4 @@
-# Hi 👋, I'm Angeline
+# Hi 👋, I'm Trimi
 
 ### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
 
