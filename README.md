@@ -132,7 +132,8 @@ administration website, and backend components** of the project.
 <img src="https://img.shields.io/badge/GitHub-lvrl3e-black?style=for-the-badge&logo=github"/>
 </a>
 
+
 <a href="https://www.linkedin.com/in/lvrl3e/">
-<img src="https://img.shields.io/badge/LinkedIn-lrl3e-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-lvrl3e-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
