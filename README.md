@@ -22,8 +22,9 @@
 
 
 
-
-## 🛠️ Technologies & Tools
+<p>
+  <strong><font size="12">🛠️ Technologies & Tools</font></strong>
+</p>
 
 ### Frontend
 
