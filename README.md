@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
 
-<img align="center" alt="Coding" width="200" src="./trimi.gif">
+<img align="left" alt="Coding" width="200" src="./trimi.gif">
 
 I'm a junior full-stack developer interested in building web and mobile
 applications.
