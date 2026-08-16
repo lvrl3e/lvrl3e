@@ -102,6 +102,35 @@ A transportation management and monitoring dashboard I designed and developed us
 
 [View Repository →](https://github.com/lvrl3e/ManibelApp-Admin-Website)
 
+---
+
+<h3>
+  <img src="./p-and-loom-logo.png" alt="P&Loom Logo" width="45" height="45" align="middle"/>
+  &nbsp; P&Loom
+</h3>
+
+A modern trading performance journal designed for traders to track **multiple trading accounts, daily P&L, trading performance, notes, and screenshots**.
+
+Built with:
+
+`Python` `Streamlit` `SQLite` `Pandas` `Plotly`
+
+### Highlights
+
+- 💼 Multiple trading account tracking
+- 💰 Daily profit & loss logging
+- 📅 Calendar-based trading journal
+- 📈 Equity & performance analytics
+- 🎯 Prop-firm account progress tracking
+- 📝 Daily trading notes
+- 📸 Trading screenshot attachments
+- 📊 Win/loss and performance statistics
+- 🌙 Dark trading-terminal inspired interface
+
+**My Role:** Designed and developed P&Loom, including the dashboard, account tracking system, daily journal, calculations, analytics, and user interface.
+
+[View Repository →](YOUR_P_AND_LOOM_REPOSITORY_URL)
+
 # 📊 GitHub Stats
 
 <p align="center">
