@@ -1,6 +1,8 @@
 <img align="right" alt="Trimi" width="150" src="./trimi.gif">
 
-<h1>Hi 👋, I'm Trimi</h1>
+<p>
+  <strong><font size="6">Hi 👋, I'm Trimi</font></strong>
+</p>v
 
 <h3>Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter</h3>
 
