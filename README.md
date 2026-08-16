@@ -2,6 +2,8 @@
 
 # Hi 👋, I'm Trimi
 
+
+
 ### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
 
 I'm a junior full-stack developer interested in building web and mobile
