@@ -129,7 +129,7 @@ Built with:
 
 **My Role:** Designed and developed P&Loom, including the dashboard, account tracking system, daily journal, calculations, analytics, and user interface.
 
-[View Repository →](YOUR_P_AND_LOOM_REPOSITORY_URL)
+[View Repository →](https://github.com/lvrl3e/p-and-loom.git)
 
 # 📊 GitHub Stats
 
