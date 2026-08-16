@@ -10,7 +10,6 @@ applications.
 I enjoy working across the frontend, backend, mobile, and database layers
 of an application.
 
-- 🔭 Working on **Manibela — Transportation Management System**
 - 💻 Interested in **Web Development, Mobile Development & Backend Development**
 - 📍 Based in the **Philippines**
 
