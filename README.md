@@ -76,42 +76,28 @@ REST APIs
 
 # 🚍 Featured Project
 
-<!--
-## Manibela
 
-**Full-Stack Transportation Management System**
+### ManibelApp Admin Website
 
-Manibela is a collaborative transportation platform consisting of:
+A transportation management and monitoring dashboard I designed and developed using:
 
-- 📱 Flutter mobile application
-- 🖥️ React + TypeScript admin website
-- ⚙️ Node.js + Express backend
-- 🗄️ PostgreSQL database
-- 🔷 Prisma ORM
-- 🐳 Docker development environment
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express`
+`REST APIs` `PostgreSQL` `Prisma` `Leaflet`
 
-### Technologies
+### Highlights
 
-`Flutter` `Dart` `React` `TypeScript` `Node.js` `Express`
-`PostgreSQL` `Prisma` `Docker`
+- 🔐 Admin authentication & protected routes
+- 📊 Dashboard & data management
+- 👥 Commuter & driver management
+- 🪪 ID verification
+- 🚌 Jeepney & passenger monitoring
+- 🗺️ Live maps
+- 🚨 Incident reports
+- 📈 Reports & data export
 
-### Features
+**My Role:** Designed and developed the Admin Website, including the frontend, authentication, navigation, API integration, maps, and administrative features.
 
-- 🔐 Authentication and authorization
-- 🗺️ Location and map functionality
-- 📱 Mobile application
-- 🖥️ Admin dashboard
-- 📷 QR code generation and scanning
-- 📊 Data management and reporting
-- 🔌 REST API integration
-
-### My Contributions
-
-I contributed to the development of the **mobile application,
-administration website, and backend components** of the project.
-
----
--->
+[View Repository →](https://github.com/lvrl3e/ManibelApp-Admin-Website)
 
 # 📊 GitHub Stats
 
