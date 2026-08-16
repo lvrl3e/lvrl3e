@@ -1,19 +1,17 @@
-<img align="right" alt="Trimi" width="200" src="./trimi.gif">
+<img align="right" alt="Trimi" width="150" src="./trimi.gif">
 
-# Hi 👋, I'm Trimi
+<h1>Hi 👋, I'm Trimi</h1>
 
+<h3>Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter</h3>
 
+<p>I'm a junior full-stack developer interested in building web and mobile applications.</p>
 
-### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
+<p>I enjoy working across the frontend, backend, mobile, and database layers of an application.</p>
 
-I'm a junior full-stack developer interested in building web and mobile
-applications.
-
-I enjoy working across the frontend, backend, mobile, and database layers
-of an application.
-
-- 💻 Interested in **Web Development, Mobile Development & Backend Development**
-- 📍 Based in the **Philippines**
+<ul>
+  <li>💻 Interested in Web Development, Mobile Development & Backend Development</li>
+  <li>📍 Based in the Philippines</li>
+</ul>
 
 ---
 
