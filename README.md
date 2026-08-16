@@ -1,10 +1,8 @@
+<img align="right" alt="Trimi" width="200" src="./trimi.gif">
+
 # Hi 👋, I'm Trimi
 
 ### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
-
-<p align="right">
-  <img src="./trimi.gif" alt="Trimi" width="200">
-</p>
 
 I'm a junior full-stack developer interested in building web and mobile
 applications.
