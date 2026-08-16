@@ -118,4 +118,4 @@ administration website, and backend components** of the project.
 <a href="https://github.com/lvrl3e">
 <img src="https://img.shields.io/badge/GitHub-lvrl3e-black?style=for-the-badge&logo=github"/>
 </a>
-</p>v
+</p>
