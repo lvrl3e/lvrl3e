@@ -2,7 +2,7 @@
 
 ### Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter
 
-<img align="left" alt="Coding" width="200" src="./trimi.gif">
+<img align="left" alt="Trimi" width="200" src="./trimi.gif">
 
 I'm a junior full-stack developer interested in building web and mobile
 applications.
@@ -10,8 +10,7 @@ applications.
 I enjoy working across the frontend, backend, mobile, and database layers
 of an application.
 
-- 🔭 Currently working on **Manibela — Transportation Management System**
-- 🌱 Currently learning **full-stack application architecture**
+- 🔭 Working on **Manibela — Transportation Management System**
 - 💻 Interested in **Web Development, Mobile Development & Backend Development**
 - 📍 Based in the **Philippines**
 
@@ -110,4 +109,4 @@ administration website, and backend components** of the project.
 <a href="https://github.com/lvrl3e">
 <img src="https://img.shields.io/badge/GitHub-lvrl3e-black?style=for-the-badge&logo=github"/>
 </a>
-</p>
+</p>v
