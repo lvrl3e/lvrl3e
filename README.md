@@ -2,7 +2,7 @@
 
 <p>
   <strong><font size="6">Hi 👋, I'm Trimi</font></strong>
-</p>v
+</p>
 
 <h3>Junior Full-Stack Developer | React • Node.js • PostgreSQL • Flutter</h3>
 
