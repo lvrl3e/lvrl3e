@@ -1,4 +1,4 @@
-<img align="right" alt="Trimi" width="150" src="./trimi.gif">
+<img align="right" alt="Trimi" width="250" src="./trimi.gif">
 
 <p>
   <strong><font size="6">Hi 👋, I'm Trimi</font></strong>
