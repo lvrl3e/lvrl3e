@@ -63,6 +63,7 @@
 
 # 🚍 Featured Project
 
+<!--
 ## Manibela
 
 **Full-Stack Transportation Management System**
@@ -97,6 +98,7 @@ I contributed to the development of the **mobile application,
 administration website, and backend components** of the project.
 
 ---
+-->v
 
 # 📊 GitHub Stats
 
