@@ -77,8 +77,10 @@ REST APIs
 
 # 🚍 Featured Project
 
-
-### ManibelApp Admin Website
+<h3>
+  <img src="./logo.png" alt="ManibelApp Logo" width="45" height="45" align="middle"/>
+  &nbsp; ManibelApp Admin Website
+</h3>
 
 A transportation management and monitoring dashboard I designed and developed using:
 
