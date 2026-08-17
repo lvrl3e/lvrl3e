@@ -133,6 +133,34 @@ Built with:
 
 ---
 
+<h3>
+  <img src="./gexis-logo.png" alt="GEXIS Logo" width="45" height="45" align="middle"/>
+  &nbsp; GEXIS — Gamma Exposure Intelligence System
+</h3>
+
+A market analytics dashboard I designed and developed for visualizing **Gamma Exposure (GEX)** and options-market structure for NQ traders.
+
+Built using:
+
+`Python` `Streamlit` `yfinance` `Pandas` `NumPy` `Plotly`
+
+### Highlights
+
+- 📊 Gamma Exposure Radar
+- 🎯 Gamma Flip / Zero Gamma
+- 🟢 Call Wall & 🔴 Put Wall
+- ⚡ Maximum GEX detection
+- 📈 Positive / Negative Gamma regime
+- 📉 GEX distribution by strike
+- 🔎 NDX options analysis for NQ trading
+- 🔄 Yahoo Finance market-data integration
+- 🌙 Professional dark trading-terminal UI
+- 📡 Delayed market-data status indicator
+
+**My Role:** Designed and developed GEXIS, including the dashboard architecture, GEX visualization, market-structure calculations, data integration, and trading-focused UI.
+
+**[View Repository →](https://github.com/lvrl3e/gexis.git)**
+
 # 🤝 Collaborative Projects
 
 ### 🌊 FloodWatch — Flood Monitoring & Drainage Operations
