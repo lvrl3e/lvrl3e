@@ -151,6 +151,23 @@ ideas for system functionality and data presentation.
 
 [🌐 View Live Project →](https://map-floodwatch.lovable.app/)
 
+---
+
+### 🎮 AS2RO-SHOO2ERS
+
+A collaborative game application developed as part of a Computer Programming
+project.
+
+**My Contribution:** Research
+
+I contributed to the project through research and planning that supported the
+team's development process, including researching the game concept, gameplay
+ideas, relevant references, and project requirements.
+
+**Project Type:** Collaborative Academic Project
+
+[🎮 View Repository →](https://github.com/RomanAragorn/AS2RO-SHOO2ERS)
+
 # 📊 GitHub Stats
 
 <p align="center">
