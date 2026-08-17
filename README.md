@@ -115,6 +115,26 @@ Built with:
 
 `Python` `Streamlit` `SQLite` `Pandas` `Plotly`
 
+---
+
+# 🤝 Collaborative Projects
+
+### 🌊 FloodWatch — Flood Monitoring & Drainage Operations
+
+A collaborative flood monitoring platform designed to help local government
+units monitor flood conditions, water levels, affected streets, and
+operational status.
+
+**My Contribution:** Research & System Planning
+
+I contributed to the project through research and system planning, including
+problem research, requirements gathering, feature research, and contributing
+ideas for system functionality and data presentation.
+
+**Project Type:** Collaborative Project
+
+[🌐 View Live Project →](https://map-floodwatch.lovable.app/)
+
 ### Highlights
 
 - 💼 Multiple trading account tracking
