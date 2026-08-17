@@ -115,6 +115,22 @@ Built with:
 
 `Python` `Streamlit` `SQLite` `Pandas` `Plotly`
 
+### Highlights
+
+- 💼 Multiple trading account tracking
+- 💰 Daily profit & loss logging
+- 📅 Calendar-based trading journal
+- 📈 Equity & performance analytics
+- 🎯 Prop-firm account progress tracking
+- 📝 Daily trading notes
+- 📸 Trading screenshot attachments
+- 📊 Win/loss and performance statistics
+- 🌙 Dark trading-terminal inspired interface
+
+**My Role:** Designed and developed P&Loom, including the dashboard, account tracking system, daily journal, calculations, analytics, and user interface.
+
+[View Repository →](https://github.com/lvrl3e/p-and-loom.git)
+
 ---
 
 # 🤝 Collaborative Projects
@@ -134,22 +150,6 @@ ideas for system functionality and data presentation.
 **Project Type:** Collaborative Project
 
 [🌐 View Live Project →](https://map-floodwatch.lovable.app/)
-
-### Highlights
-
-- 💼 Multiple trading account tracking
-- 💰 Daily profit & loss logging
-- 📅 Calendar-based trading journal
-- 📈 Equity & performance analytics
-- 🎯 Prop-firm account progress tracking
-- 📝 Daily trading notes
-- 📸 Trading screenshot attachments
-- 📊 Win/loss and performance statistics
-- 🌙 Dark trading-terminal inspired interface
-
-**My Role:** Designed and developed P&Loom, including the dashboard, account tracking system, daily journal, calculations, analytics, and user interface.
-
-[View Repository →](https://github.com/lvrl3e/p-and-loom.git)
 
 # 📊 GitHub Stats
 
