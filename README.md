@@ -186,7 +186,7 @@ Built with:
 - 🇵🇭 Full Philippine Peso (₱) formatting throughout
 - 🎨 Custom minimalist fintech design system (black, white, bloom pink)
 
-[View Repository →]()
+[View Repository →](https://github.com/lvrl3e/bloom.git)
 
 # 🤝 Collaborative Projects
 
