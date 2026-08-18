@@ -111,7 +111,7 @@ Built using:
 
 **My Role:** Designed and developed both the Manibela mobile application and Admin Website, including the UI/UX, frontend development, authentication, navigation, maps, API integration, database integration, monitoring features, and administrative functionality.
 
-[View App Repository →](https://github.com/lvrl3e/ManibelApp)
+[View App Repository →](https://github.com/lvrl3e/ManibelApp-App.git)
 
 [View Admin Website Repository →](https://github.com/lvrl3e/ManibelApp-Admin-Website)
 
