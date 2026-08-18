@@ -166,7 +166,7 @@ Built using:
 --- 
 
 <h3>
-  <img src="./bloom-logo.png" alt="Bloom Logo" width="45" height="45" align="middle"/>
+  <alt="Bloom Logo" width="45" height="45" align="middle"/>
   &nbsp; 🌸 BLOOM — Personal Finance & Goals App
 </h3>
 
