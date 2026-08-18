@@ -80,29 +80,41 @@ REST APIs
 ---
 
 <h3>
-  <img src="./logo.png" alt="ManibelApp Logo" width="45" height="45" align="middle"/>
-  &nbsp; ManibelApp Admin Website
+  <img src="./logo.png" alt="ManibelaApp Logo" width="45" height="45" align="middle"/>
+  &nbsp; Manibela App & Admin Website
 </h3>
 
-A transportation management and monitoring dashboard I designed and developed using:
+A transportation management and monitoring system I designed and developed, consisting of a commuter mobile application and an administrative web dashboard.
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express`
-`REST APIs` `PostgreSQL` `Prisma` `Leaflet`
+**Manibela App** — A commuter-focused mobile application for finding nearby jeepneys, monitoring transportation, rating or reporting drivers, and accessing emergency services.
+
+**Manibela Admin Website** — An administrative dashboard for managing commuters, drivers, jeepneys, incidents, ID verification, live monitoring, and transportation data.
+
+Built using:
+
+`Flutter` `Dart` `React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express`
+`REST APIs` `PostgreSQL` `Prisma` `Leaflet` `Google Maps`
 
 ### Highlights
 
-- 🔐 Admin authentication & protected routes
-- 📊 Dashboard & data management
-- 👥 Commuter & driver management
-- 🪪 ID verification
-- 🚌 Jeepney & passenger monitoring
-- 🗺️ Live maps
-- 🚨 Incident reports
-- 📈 Reports & data export
+* 📱 Commuter mobile application
+* 🖥️ Administrative web dashboard
+* 🔐 Authentication & protected routes
+* 👥 Commuter & driver management
+* 🪪 ID verification
+* 🚌 Jeepney & passenger monitoring
+* 🗺️ Maps & location tracking
+* ⭐ Driver rating & reporting
+* 🚨 Incident reports & emergency hotlines
+* 📊 Dashboard & data management
+* 📈 Reports & data export
 
-**My Role:** Designed and developed the Admin Website, including the frontend, authentication, navigation, API integration, maps, and administrative features.
+**My Role:** Designed and developed both the Manibela mobile application and Admin Website, including the UI/UX, frontend development, authentication, navigation, maps, API integration, database integration, monitoring features, and administrative functionality.
 
-[View Repository →](https://github.com/lvrl3e/ManibelApp-Admin-Website)
+[View App Repository →](https://github.com/lvrl3e/ManibelApp)
+
+[View Admin Website Repository →](https://github.com/lvrl3e/ManibelApp-Admin-Website)
+
 
 ---
 
