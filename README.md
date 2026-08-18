@@ -77,6 +77,8 @@ REST APIs
 
 # 🚍 Featured Project
 
+---
+
 <h3>
   <img src="./logo.png" alt="ManibelApp Logo" width="45" height="45" align="middle"/>
   &nbsp; ManibelApp Admin Website
@@ -160,6 +162,31 @@ Built using:
 **My Role:** Designed and developed GEXIS, including the dashboard architecture, GEX visualization, market-structure calculations, data integration, and trading-focused UI.
 
 **[View Repository →](https://github.com/lvrl3e/gexis.git)**
+
+--- 
+
+<h3>
+  <img src="./bloom-logo.png" alt="Bloom Logo" width="45" height="45" align="middle"/>
+  &nbsp; 🌸 BLOOM — Personal Finance & Goals App
+</h3>
+
+A premium personal finance app I designed and developed for tracking bank/e-wallet balances, income & expenses, and savings goals, with a custom black-and-pink fintech design system.
+
+Built with:
+
+`Flutter` `Dart` `SQLite` `Provider` `fl_chart`
+
+### Highlights
+
+- 🏦 Manual multi-account tracking (banks, e-wallets, cash, credit cards) — no credentials ever stored
+- 💸 Income, expense & transfer transactions with automatic balance sync across accounts
+- 🎯 Financial goals with live progress, required monthly savings, and status tracking (On Track / Behind / At Risk / Completed)
+- 📊 Analytics dashboard — income vs. expenses, net worth trend, spending by category
+- 💾 Local SQLite database with a clean UI → Services → Database architecture
+- 🇵🇭 Full Philippine Peso (₱) formatting throughout
+- 🎨 Custom minimalist fintech design system (black, white, bloom pink)
+
+[View Repository →]()
 
 # 🤝 Collaborative Projects
 
