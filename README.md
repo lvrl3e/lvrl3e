@@ -77,6 +77,36 @@ REST APIs
 
 # 🚍 Featured Project
 
+<h3>
+  <img src="./ghost-city-logo" alt="GHOST CITY Logo" width="45" height="45" align="middle"/>
+  &nbsp; Ghost City
+</h3>
+
+An AI-powered urban simulation and intelligence platform that lets users visualize, analyze, and simulate what could happen inside a city — before it happens.
+
+**Ghost City** — A futuristic command-center web app centered on a live interactive city map, where users monitor real-time traffic and mobility, run hypothetical scenarios (accidents, floods, road closures, public events), and query an AI assistant grounded in the simulation's live state.
+
+Built using:
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `MapLibre GL JS`
+`Node.js` `Express` `PostgreSQL` `PostGIS` `Zustand` `Recharts`
+
+### Highlights
+
+* 🗺️ Live interactive dark-styled city map (MapLibre)
+* 🚦 Real-time simulated traffic, vehicles & pedestrians
+* 🧪 City Lab — build and run hypothetical urban scenarios
+* 🚧 Accident, flood & road closure simulations
+* 🔮 Future City — projected multi-year urban scenarios
+* 🤖 Ghost AI — urban intelligence assistant grounded in simulation data
+* 📊 Analytics dashboard — traffic trends, hotspots, incident frequency
+* 🕘 Scenario history — save, compare & restore past simulations
+* 🎨 Original geometric brand identity & dark command-center UI
+
+**My Role:** Designed and developed Ghost City end-to-end, including the brand identity and logo, UI/UX, frontend architecture, the traffic/mobility simulation engine, interactive map integration, the scenario simulation lab, analytics visualizations, and the Ghost AI assistant integration.
+
+[View Repository →](https://github.com/lvrl3e/ghost-city)
+
 ---
 
 <h3>
