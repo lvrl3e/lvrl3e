@@ -78,7 +78,7 @@ REST APIs
 # 🚍 Featured Project
 
 <h3>
-  <img src="./ghost-city-logo" alt="GHOST CITY Logo" width="45" height="45" align="middle"/>
+  <img src="./ghost-city-logo.png" alt="GHOST CITY Logo" width="45" height="45" align="middle"/>
   &nbsp; Ghost City
 </h3>
 
